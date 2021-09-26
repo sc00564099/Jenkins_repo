@@ -1,6 +1,9 @@
+#!/bin/sh
 
-#!/bin/bash
+# Author : Zara Ali
+# Copyright (c) Tutorialspoint.com
+# Script follows here:
 
-# example of using arguments to a script
-# example of using arguments.
-
+echo "What is your name?"
+read PERSON
+echo "Hello, $PERSON"
