@@ -1,4 +1,0 @@
-git status
-git remote -v
-git --version
-date
